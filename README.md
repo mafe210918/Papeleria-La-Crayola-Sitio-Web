@@ -14,3 +14,7 @@ Sitio web informativo para una papeleria ficiticia.
 -Tarjetas de productos y novedades
 -Navegacion interna
 -Diseño adaptable a moviles
+
+
+Autor:
+Maryan Beltrán Hernández
